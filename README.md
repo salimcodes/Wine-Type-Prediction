@@ -15,7 +15,8 @@ This Machine Learning Model predicts the type of a given wine –Type 1, Type 2,
 13.	Quantity of Proline
 
 >The model was built using the Gaussian Naïve – Bayes classifier with 25% of the dataset dedicated to test samples and 75% used for training the model.
-> On the training the model, it was seen to have a 93.33% Accuracy
-A full link to the running of the Jupyter Notebook file is given below
+
+On the training the model, it was seen to have a 93.33% Accuracy.
+_A full link to the running of the Jupyter Notebook file is given below_
 https://colab.research.google.com/drive/1eSgwLygr9Lphp57s28W2cXiIC49Q1N_5?usp=sharing
 
